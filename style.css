@@ -3,8 +3,8 @@
 }
 
 body {
-  background-color: hsl(261, 88%, 17%);
-  color: hsl(261, 88%, 90%);
+  background-color: black;
+  color: white;
   text-align: center;
   max-width: calc(100% - 200px);
 }
